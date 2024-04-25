@@ -1,0 +1,15 @@
+{
+  "name": "fe-tool-bundle",
+  "displayName": "FE Tool Bundle",
+  "description": "Extension bundle for FE tools",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
